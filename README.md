@@ -64,7 +64,7 @@ Available on **[Open VSX Registry](https://open-vsx.org/extension/lucianofederic
 Install manually from the [Open VSX page](https://open-vsx.org/extension/lucianofedericopereira/terra-verde-theme) by downloading the `.vsix` and running:
 
 ```bash
-code --install-extension terra-verde-theme-1.0.0.vsix
+code --install-extension terra-verde-theme-1.0.1.vsix
 ```
 
 Or via Extensions → `...` menu → **Install from VSIX**.

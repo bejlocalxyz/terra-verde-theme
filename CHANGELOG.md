@@ -2,6 +2,12 @@
 
 All notable changes to Terra Verde will be documented here.
 
+## [1.0.1] - 2026-02-21
+
+### Changed
+
+- Improved status bar.
+
 ## [1.0.0] - 2026-02-18
 
 ### Added
